@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./logo.png" alt="LassRiver-NS-A2026EDW Logo" width="280" />
+  <img src="./logo.png" alt="LassRiver-NS-A2026EDW Logo" width="780" />
 
   <h1>LassRiver-NS-A2026EDW</h1>
 
