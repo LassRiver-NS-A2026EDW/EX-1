@@ -162,6 +162,30 @@ We deliver end-to-end systems that combine modern web experiences with high-perf
     <li><b>Ownership</b>: we build it, we run it, we improve it</li>
   </ul>
 </div>
+<h2>Team</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/gerbetwo">
+        <img src="https://github.com/gerbetwo.png" width="90" height="90" style="border-radius:50%; object-fit:cover;" alt="gerbetwo"/>
+      </a>
+      <br/>
+      <b>Daniel Alejandro Lasso Molina</b>
+      <br/>
+      <sub><a href="https://github.com/gerbetwo">@gerbetwo</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kriv-bit">
+        <img src="https://github.com/kriv-bit.png" width="90" height="90" style="border-radius:50%; object-fit:cover;" alt="kriv-bit"/>
+      </a>
+      <br/>
+      <b>Kevin Orlando Rivera Lasso</b>
+      <br/>
+      <sub><a href="https://github.com/kriv-bit">@kriv-bit</a></sub>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
