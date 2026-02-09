@@ -1,102 +1,176 @@
-<!--
-README for GitHub Organization / Repository
-Org: LassRiver-NS-A2026EDW
--->
+<!-- ============================================================
+  README — LassRiver-NS-A2026EDW
+  Tip: GitHub supports HTML inside Markdown.
+============================================================== -->
 
-<p align="center">
-  <img src="./logo.png" alt="LassRiver Logo" width="280" />
-</p>
+<div align="center">
 
-<h1 align="center">LassRiver-NS-A2026EDW</h1>
+  <img src="./logo.png" alt="LassRiver-NS-A2026EDW Logo" width="160" />
 
-<p align="center">
-  <strong>Scalable AI • Neural Networks • Big Data Platforms</strong><br/>
-  Owner-driven engineering delivering end-to-end systems in security, education, and automation.
-</p>
+  <h1>LassRiver-NS-A2026EDW</h1>
 
-<p align="center">
-  <a href="#core-projects">Core Projects</a> •
-  <a href="#technology-stack">Technology Stack</a> •
-  <a href="#engineering-approach">Engineering Approach</a>
-</p>
+  <p>
+    <b>Scalable AI • Neural Networks • Big Data Platforms</b><br/>
+    Building high-impact systems across <b>security</b>, <b>education</b>, and <b>automation</b>.
+  </p>
+
+  <p>
+    <a href="#about">About</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#stack">Tech Stack</a> •
+    <a href="#principles">Principles</a> •
+    <a href="#contact">Contact</a>
+  </p>
+
+  <p>
+    <img alt="Status" src="https://img.shields.io/badge/status-active-success" />
+    <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20%26%20Big%20Data-blue" />
+    <img alt="Frontend" src="https://img.shields.io/badge/frontend-Next.js-black" />
+    <img alt="Backend" src="https://img.shields.io/badge/backend-ASP.NET%20Core-purple" />
+  </p>
+
+</div>
 
 <hr/>
 
-## Overview
+## <a id="about"></a>About
 
-**LassRiver-NS-A2026EDW** is a technology organization focused on building **scalable AI, neural network, and data-intensive platforms**.  
-We design and deliver end-to-end systems that combine **machine learning**, **modern web experiences**, and **robust backend architectures** to solve real-world problems.
+<strong>LassRiver-NS-A2026EDW</strong> is a technology organization focused on building <strong>scalable AI, neural network, and data-intensive platforms</strong>.
+We deliver end-to-end systems that combine modern web experiences with high-performance backend services and robust data pipelines.
 
-Our owners are hands-on developers responsible for the full lifecycle—from **architecture and implementation** to **deployment and reliability**.
+<div>
+  <ul>
+    <li><b>Applied AI:</b> neural networks, anomaly detection, predictive analytics</li>
+    <li><b>Data at scale:</b> ingestion pipelines, analytics layers, insight delivery</li>
+    <li><b>Product engineering:</b> user-facing platforms with measurable outcomes</li>
+  </ul>
+</div>
 
----
+<blockquote>
+  <b>Owner-driven engineering.</b> Our owners are hands-on developers responsible for architecture, implementation, deployment, and reliability.
+</blockquote>
 
-## Core Projects
+<hr/>
 
-### 1) Insurgent Activity Detection with Neural Networks
-An AI-driven system designed to detect and analyze potential insurgent activities using **neural networks** and **large-scale data processing**.  
-The platform supports early detection through **pattern recognition**, **anomaly detection**, and **risk-based insights**.
+## <a id="projects"></a>Projects
 
-**Highlights**
-- Neural network models for behavioral & pattern signals  
-- Scalable ingestion and processing pipelines  
-- Predictive analytics and alerting-ready outputs  
+<table>
+  <tr>
+    <td width="50%">
+      <h3>1) Insurgent Activity Detection with Neural Networks</h3>
+      <p>
+        An AI-driven system designed to detect and analyze potential insurgent activities using
+        <b>neural networks</b> and <b>large-scale data processing</b>. The platform supports early
+        detection through <b>pattern recognition</b>, <b>anomaly detection</b>, and risk-based insights.
+      </p>
+      <ul>
+        <li>Signal & behavior pattern modeling</li>
+        <li>Scalable ingestion and feature pipelines</li>
+        <li>Risk scoring and alert-ready outputs</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>2) Agile Reading Skills Development Platform</h3>
+      <p>
+        A learning platform that improves <b>speed</b>, <b>comprehension</b>, and <b>consistency</b>
+        through structured practice and data-driven feedback. It adapts training modules based on performance.
+      </p>
+      <ul>
+        <li>Adaptive learning flows</li>
+        <li>Progress tracking with analytics</li>
+        <li>Personalized practice sessions</li>
+      </ul>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="50%">
+      <h3>3) AI Landing Page Builder with Automated Deployment</h3>
+      <p>
+        A platform that generates landing pages using AI and deploys them automatically.
+        It reduces time-to-market by streamlining <b>content generation</b>, <b>layout creation</b>,
+        and <b>deployment pipelines</b>.
+      </p>
+      <ul>
+        <li>AI-assisted copy and structure generation</li>
+        <li>Build & deploy automation</li>
+        <li>Scalable delivery-ready architecture</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>4) Specialized Learning Platform for Saber PRO Preparation</h3>
+      <p>
+        A specialized education platform built to support learners preparing for <b>Saber PRO</b>.
+        It provides competency-based learning paths, evaluations, and performance insights to reinforce targeted skills.
+      </p>
+      <ul>
+        <li>Diagnostics and competency mapping</li>
+        <li>Exam-aligned practice and feedback</li>
+        <li>Performance insights and improvement loops</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 2) Agile Reading Skills Development Platform
-A learning platform that helps users build **fast, efficient, and accurate reading skills** through structured practice and data-driven feedback.  
-It adapts content based on performance and tracks progress with measurable indicators.
+<hr/>
 
-**Highlights**
-- Adaptive learning flows and progress tracking  
-- Performance analytics and personalized exercises  
-- Designed for consistent improvement over time  
+## <a id="stack"></a>Tech Stack
 
----
+<div align="center">
 
-### 3) AI Landing Page Builder with Automated Deployment
-A platform that generates landing pages using AI and ships them to production with **automated deployment**.  
-It reduces time-to-market by streamlining content generation, layout creation, and delivery pipelines.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
+      <p><b>Next.js</b></p>
+      <p>Modern UI, SSR/SSG, dashboards, product experiences.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <p><b>ASP.NET Core</b></p>
+      <p>High-performance APIs, security, services, scalable architecture.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>AI & Data</h3>
+      <p><b>Neural Networks • Data Pipelines</b></p>
+      <p>Model integration, analytics layers, scalable processing.</p>
+    </td>
+  </tr>
+</table>
 
-**Highlights**
-- AI-assisted content and layout generation  
-- Automated build + deploy pipeline  
-- Scalable delivery-ready architecture  
+</div>
 
----
+<details>
+  <summary><b>What we typically care about</b> (click to expand)</summary>
+  <ul>
+    <li><b>Performance</b>: efficient APIs, optimized data access, predictable latency</li>
+    <li><b>Scalability</b>: services that scale independently, clean boundaries</li>
+    <li><b>Security</b>: authentication/authorization, secure defaults, auditing-ready design</li>
+    <li><b>Reliability</b>: observability, repeatable deployments, controlled change</li>
+  </ul>
+</details>
 
-### 4) Specialized Learning Platform for Saber PRO Preparation
-An education platform built to support learners preparing for **Saber PRO** exams.  
-It provides competency-based learning paths, evaluation tools, and analytics to reinforce targeted skills.
+<hr/>
 
-**Highlights**
-- Exam-aligned learning paths and diagnostics  
-- Competency tracking and performance insights  
-- Focused content for specialized preparation  
+## <a id="principles"></a>Principles
 
----
+<div>
+  <ul>
+    <li><b>Clean architecture</b> over shortcuts</li>
+    <li><b>Scalability</b> and <b>maintainability</b> as first-class requirements</li>
+    <li><b>Measurable outcomes</b> through data and feedback loops</li>
+    <li><b>Ownership</b>: we build it, we run it, we improve it</li>
+  </ul>
+</div>
 
-## Technology Stack
+<hr/>
+
+## <a id="contact"></a>Contact
 
 <p>
-  <b>Frontend:</b> Next.js<br/>
-  <b>Backend:</b> ASP.NET Core<br/>
-  <b>AI / Data:</b> Neural Networks, Data Pipelines, Analytics Systems
+  If you're collaborating with us, open an issue or start a discussion in the relevant repository.
 </p>
 
----
-
-## Engineering Approach
-
-We build with a long-term mindset:
-- **Clean architecture** over quick hacks  
-- **Scalability and performance** as first-class requirements  
-- **Security and reliability** baked into design  
-- **Maintainability** through consistent standards and strong ownership  
-
----
-
-<p align="center">
+<div align="center">
   <sub>© LassRiver-NS-A2026EDW — Built by owner-developers, engineered for scale.</sub>
-</p>
+</div>
